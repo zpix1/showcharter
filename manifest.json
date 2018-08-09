@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Show Charter",
+  "name": "Simple shows rating chart",
   "icons": [
     {
       "src": "favicon.ico",
